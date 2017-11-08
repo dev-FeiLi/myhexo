@@ -6,7 +6,7 @@
 # Useful if you don't want to inherit the theme _config.yml configurations.
 override: false
 
-avatar: https://avatars1.githubusercontent.com/u/32269?v=3&s=460
+avatar: /uploads/avatar.jpg
 
 # ---------------------------------------------------------------
 # Site Information Settings
